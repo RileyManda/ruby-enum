@@ -79,6 +79,12 @@ puts list.filter(&:even?).inspect  # Should output: [2, 4]
 
 - GitHub: [@ClarenceAtim](https://github.com/ClarenceAtim)
 
+👤 **RileyManda**
+
+- GitHub: [@RileyManda](https://github.com/RileyManda)
+- Twitter: [@rilecodez](https://twitter.com/rileycodez)
+- LinkedIn: [rileymanda](https://www.linkedin.com/in/rileymanda/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
