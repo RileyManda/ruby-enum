@@ -101,7 +101,7 @@ puts list.filter(&:even?).inspect  # Should output: [2, 4]
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/ClarenceAtim/Enumerable/issues).
+Feel free to check the [issues page](https://github.com/RileyManda/ruby-enum/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
